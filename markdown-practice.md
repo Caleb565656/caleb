@@ -1,6 +1,6 @@
 # My Learning Goals
-### Heading 3 This Semester
-**learning**howm to*write code*  and the programming languages*
+# This Semester
+**Learning**how to*write code*  and the programming languages*
 [Link text]https://github.com/Caleb565656
 #Things I want to know
 - Javascript
