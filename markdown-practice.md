@@ -27,8 +27,12 @@
 ```python
 print("Hello, world!")
 ```
-> emphasize loving your work, embracing failure as a stepping stone, and taking action despite fear
+Emphasize loving your work, embracing failure as a stepping stone, and taking action despite fear
+
+
 ###About me
+
 > ***Hello**
+> 
 > I'm Caleb a student who has just completed high school and is now learning computer programming in we can academy as he waits to join university to learn IT and AI
 > 
