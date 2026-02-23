@@ -7,7 +7,8 @@
 - Javascript
 - Python
 - C/C++
-Steps to follow when learning
+
+#  Steps to follow when learning
 1. Enroll in a computer programming programme
 2. Studying and understanding the different programming languages
 3. Practicing the different languages
