@@ -13,11 +13,15 @@
 2. Studying and understanding the different programming languages
 3. Practicing the different languages
 4. Practicing coding oftenly
+
+
 | Tool       | Purpose            | Link                     |
 |------------|--------------------|--------------------------|
 | JSLINT     | Error Detection    |  https://www.jslint.com/ |
 | Prettier   | Formatting         |  https://prettier.io/    |
 | Python     | Learning           |  https://www.python.org/ |
+
+
 ###Task list 
 - [x] Enroll in a computer programming program
 - [x] Learn the basics of markdown
