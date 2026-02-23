@@ -1,6 +1,6 @@
 # My Learning Goals
 # This Semester
-**Learning**how to*write code*  and the programming languages*
+**Learning** how to *write code*  and the programming languages*
 [Link text]https://github.com/Caleb565656
 #Things I want to know
 - Javascript
