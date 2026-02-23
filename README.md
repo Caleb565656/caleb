@@ -10,7 +10,7 @@
 - Python, HTML/CSS and javascript
 
 ## Current Projects
--  
+-  None
 
 ## How to Reach Me
 - Email: saiunicaleb@gmail.com
